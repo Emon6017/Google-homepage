@@ -72,7 +72,7 @@ section .main .search .bar{
     width: 100%;
     padding: 13px;
     padding-left: 40px;
-    padding-right: 50px;
+    padding-right: 65px;
     border: 1px solid #ccc;
     border-radius: 30px;
     outline: none;
@@ -81,7 +81,7 @@ section .main .search .bar{
 section .main .search .icon{
     position: absolute;
     top: 0px;
-    width: 110%;
+    width: 92.5%;
     display: flex;
     padding: 12px 20px;
     justify-content: space-between;
